@@ -32,8 +32,8 @@ Paintastic/
 
 📸 Screenshots
 🖌️ Drawing Interface
-
-
+https://github.com/vinayR-cmd/Paintastic/blob/main/images/paintansic%20homepage.png
+https://github.com/vinayR-cmd/Paintastic/blob/main/images/paintasticcanvaspage.png
 
 🚀 Features
 🎨 Draw using mouse input
