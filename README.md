@@ -30,10 +30,13 @@ Paintastic/
 🎨 CSS – Styling elements, responsiveness
 🧠 JavaScript – Canvas drawing, color selection, brush size handling
 
-📸 Screenshots
-🖌️ Drawing Interface
-https://github.com/vinayR-cmd/Paintastic/blob/main/images/paintansic%20homepage.png
-https://github.com/vinayR-cmd/Paintastic/blob/main/images/paintasticcanvaspage.png
+📸 **Screenshots**
+
+🖌️ **Drawing Interface**  
+![Homepage Screenshot](https://raw.githubusercontent.com/vinayR-cmd/Paintastic/main/images/paintansic%20homepage.png)
+
+🖌️ **Canvas Page**  
+![Canvas Screenshot](https://raw.githubusercontent.com/vinayR-cmd/Paintastic/main/images/paintasticcanvaspage.png)
 
 🚀 Features
 🎨 Draw using mouse input
