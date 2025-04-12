@@ -9,10 +9,8 @@
 
 body {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
     min-height: 100vh;
-    min-width: 100vw;
     background-image: url('images/paint.jpg');
     background-size: cover;
     background-position: center;
@@ -20,12 +18,14 @@ body {
 }
 
 section {
+    flex: 1; /* This allows the content to grow and push the footer down */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     animation: fadeIn 1s ease-in-out;
 }
+
 
 
 .title {
@@ -102,4 +102,24 @@ section {
     .button {
         font-size: 0.9 rem;
     }
+}
+
+.footerbox {
+    height: 4.5rem;
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(20px);
+    background-color: rgba(166, 133, 197, 0.3);
+    color: rgb(33, 32, 32);
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.3);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.footpara{
+    font-size: 1.5rem;
 }
